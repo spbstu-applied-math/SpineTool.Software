@@ -1,4 +1,16 @@
 # SpineTool
+> ⚠️ **Important notice**  
+> The actively maintained and up-to-date version of SpineTool is available in the laboratory repository:  
+> https://github.com/Biomed-imaging-lab/SpineTool  
+>  
+> The new version includes multiple fixes related to:
+> - handling of original input datasets,
+> - TIFF file reading,
+> - directory and file path processing.
+>  
+> Please use the laboratory repository for the most stable and recent version of the software.
+
+## Description
 [Ekaterina, P., Peter, V., Smirnova, D., Vyacheslav, C., Ilya, B. (2023). SpineTool is an open-source software for analysis of morphology of dendritic spines. Scientific Reports.13. 
 10.1038/s41598-023-37406-4.](https://doi.org/10.1038/s41598-023-37406-4)
 
